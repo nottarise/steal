@@ -13,4 +13,4 @@ I'm a Freshman at UTSA studying cybersecurity. I'm interested in penetration tes
 [![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://github.com/nottarise)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/zain-kassem-945aa4289/)
 
-_"Your sample quote here!"_
+_"To do or do not there is no try!" - Yoda_
